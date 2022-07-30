@@ -19,6 +19,17 @@
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 <br>
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### 🤔 About
+-  **Working :**  Web Development :computer: | Cloud :cloud: 
+-  **Learning :** Full-Stack :zap: | Open-Source :fire: 
+-  **Hobbies :** Books :books: | Music :headphones:
+-  **Ask me about :** Anything!, I'm happy to help :v:
+-  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
+-  **Pronouns :** He/Him/His :innocent:
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
